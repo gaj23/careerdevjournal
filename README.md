@@ -3,7 +3,7 @@ layout: page
 title: Career Journal Template
 ---
 
-## Career Journal Template
+## Gabrielle's Career Journal
 
 ### Mod 1 
 
