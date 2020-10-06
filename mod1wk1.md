@@ -32,13 +32,13 @@ How could you combine these to describe a specific strength?
 * What would you need to be aware of when working with people who have different strengths from you?
 > Silences. I struggle with silence in zoom calls often, but others need that time to formulate ideas and by not leaning into the silence, I might not be giving space for people to exercise their own strengths.
 * How could your Pairin results help you better understand your everyday working preferences?
-> 
+> My Pairin results show that I prefer focused and directed energy rather than a relaxed, roundabout way of problem solving. While I enjoy hearing others opinions and weighing the options, Pairin indicates that my decisions are based on reason and analysis. This translates, I think, into my desire to have as much information as possible to make the most informed decision. But it comes down to the fact that I'm driven to checkoff that to-do and take things step by step.
 
 
 5. Continued growth
 * Is there any particular strength you’d like to sharpen while you’re at Turing? Any area you consider a weakness that you’d like to strengthen?
->
+> I would like to sharpen my strength of communication while at Turing. As outlined above, the listening area of my communication strength needs additional work.
 * What are some steps you could take here?
->
+> I want to obey by a "rulebook" for myself to ensure that I give others the space and time to speak and share. This rulebook includes: waiting _at least_ 5 to 8 seconds before responding to a question in a group discussion; within a five minute time period, only speak twice and for no more than ninety seconds, total. If I am honest and patient with myself in this regards, I think I will be rewarded by getting to experience the strengths of others in my cohort.
 * How could you be aware of progress you’re making?
->
+> At first, I'll have to count off on my hands to make sure I'm pausing. As I become more aware of this pause, I will not need to use the physical indicators of my fingers to know that I am allowing others the space they need to share their own strengths. Additionally, I think at the end of every break out room or group discussion, if I also write at the end of my notes how long I spoke for (meaning timing myself) vs how long other spoke. This will give me the quantitative data my objective-analytical mind craves and help me make adjustments.
