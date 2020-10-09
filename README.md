@@ -7,8 +7,8 @@ title: Career Journal Template
 
 ### Mod 1 
 
-Week 1: [Link here to your gist]
-- [ ] (completed)
+Week 1: https://github.com/gaj23/careerdevjournal/blob/master/mod1wk1.md
+- [x] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
