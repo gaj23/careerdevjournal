@@ -1,0 +1,70 @@
+# Power of self-reflection
+1. What is challenging about self-reflection?
+> Self-reflection is challenging because you have to be honest to yourself and honesty can be incredibly painful. Our human psyches have been evolutionally designed to protect our egos. When we have to question and put into perspective our own thoughts, it takes effort. That effort is incredibly difficult to muster up and admit to yourself that yes, you need to self-reflect to help yourself.
+2. How can you continue to build the habit of self-reflection at Turing?
+> Journaling is the obvious one. I would say asking yourself a question as to why you're doing what your doing, in the moment, is another strategy, as well. This strategy takes enormous amount of effort and training to consistently apply.
+
+## Social identity mapping
+First, create you own social identity map on a piece of paper:
+
+- Outer ring: write words that describe your given identity
+- Middle ring: list aspects of your chosen identity
+- Center: write your core attributes—traits, behaviors, beliefs, values, characteristics, and skills that you think make you unique as an individual. Select things that are enduring and key to who you are.  
+
+After you complete your map:
+- Underline the items that are important to you
+- Put a + beside the items that you believe clearly demonstrate that you fit into the tech industry
+- Put a - beside the items that you believe do not demonstrate that you fit into the tech industry
+- Put a ? beside the items that you’re unsure how they could show your ability to contribute to the tech industry
+- Reflect:
+- >  I notice that two things that are incredibly important to me in the "given" ring (a sister and a Pittsburgher) are things I'm not sure how they could impact my interaction with the tech industry. It bothers me a little that I do not have an answer how I can apply these important things to my worklife as well.
+
+1. What does your social identity tell you about what you already bring to the tech industry?
+> Being white, my voice is already elevated in the tech industry, despite also being a woman. I'm put in a position of power that will allow me to empower others who are not given the same culturally/racially assigned power that exists in America. My core value of passion can directly apply to whatever dev project I am working on *if I believe in the project.*  
+2. What would it look like for some of your minuses or question marks to turn into pluses? In other words, how could some of these traits be assets for the tech industry?
+> I want to use my knowledge of always working in a group (aka with my siblings) to translate into what it's like working on a tech team and managing those personalities and perspectives. Also, my Pittsburgher, country living background does not reflect the same polished image of major metropolises or more liberal leaning states. I think this, though, is a huge advantage so that products can access more people.  
+
+## Values mapping
+Pull out 5 values for each bullet below from this list:
+Always valued:
+-
+-
+-
+-
+-
+Often valued:
+-
+-
+-
+-
+-
+Sometimes valued:
+-
+-
+-
+-
+-
+Seldom valued:
+-
+-
+-
+-
+-
+Reflect:
+>
+
+1. What do these values tell you about yourself?
+>
+
+
+## Workview & Lifeview  
+1. Summarize what good, worthwhile work means to you (Tip: this is NOT about what work you want to do but about why work matters to you):
+> Work that allows me space to take care of myself as much as it allows me to take care of others. Work that is actionable and creates changes in a reasonable timeframe. Work that recognizes achievements in many ways, especially work that is not necessarily defined in monetary ways.
+
+2. Lifeview: summarize what you value in life; what matters to you?
+ - Where do your views on work and life complement each other?
+  - >
+ - Where do they clash?
+  - >
+ - Does one drive the other? How?
+  - >
