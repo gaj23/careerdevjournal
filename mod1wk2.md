@@ -27,41 +27,42 @@ After you complete your map:
 ## Values mapping
 Pull out 5 values for each bullet below from this list:
 Always valued:
--
--
--
--
--
+- Mental Stimulation
+- Family
+- Growth
+- Self-discipline
+- Respect for people
 Often valued:
--
--
--
--
--
+- Environment
+- Sincerity
+- Humility
+- Joy
+- Efficiency
 Sometimes valued:
--
--
--
--
--
+- Work Alone
+- Truth
+- Loyalty
+- Pride
+- Connection
 Seldom valued:
--
--
--
--
--
+- Success
+- Tranquility
+- Competition
+- Aesthetics
+- Legacy
 Reflect:
->
+> When reading through the ones I pulled out from the list, I find myself asking, what's the different between pride and success? Obviously, because I put them in different areas, I delineate between the two. But I struggle to articulate the difference.
 
 1. What do these values tell you about yourself?
->
+> I found that limiting my always valued to just five was difficult. Most of the values listed in "often" (with the exception of efficiency) I say I *always* value. I realized that my thinking is very much split between things I care about and things I just don't. The sometimes valued list? Yeah, even those I don't really care about. There's a bit of gray area, but not much, in terms of my values.
 
 
 ## Workview & Lifeview  
 1. Summarize what good, worthwhile work means to you (Tip: this is NOT about what work you want to do but about why work matters to you):
-> Work that allows me space to take care of myself as much as it allows me to take care of others. Work that is actionable and creates changes in a reasonable timeframe. Work that recognizes achievements in many ways, especially work that is not necessarily defined in monetary ways.
+> Work that allows me space to take care of myself as much as it allows me to take care of others. Work that is actionable and creates changes in a reasonable timeframe. Work that recognizes achievements in many ways, especially work that is not necessarily defined in monetary ways. Work that allows me to learn from others and teach others in the workspace itself and through community outreach.
 
 2. Lifeview: summarize what you value in life; what matters to you?
+  > Time with family and those I love is incredibly important to me. My biggest struggle so far in Turing is having to put this investment first, before time with them. 
  - Where do your views on work and life complement each other?
   - >
  - Where do they clash?
