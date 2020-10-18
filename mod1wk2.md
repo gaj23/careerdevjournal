@@ -68,12 +68,12 @@ Reflect:
 
 2. Lifeview: summarize what you value in life; what matters to you?
   > Time with family and those I love is incredibly important to me. My biggest struggle so far in Turing is having to put this investment first, before time with them. I like learning new things and have passions that I want to pursue outside of work life/whatever area I end up working in. I do not believe that work is life or that life is work. I think that I can be passionate about my work, but also be able to put it away when its time to. Along with learning new things, I want to encourage others to learn new things, too. I want to engage with others about their passions & improve our human existence for the long term.
-  
+
  - Where do your views on work and life complement each other?
   - > Wanting to have space for time with family.
-  
+
  - Where do they clash?
   - > ...they don't? I mean, right now they certainly feel as if they don't. I guess I've watched how people dedicate so much of themselves to work life that outside of work, they have no definition of who they are. I think that is a fear I have and something I actively try to build away from.
-  
+
  - Does one drive the other? How?
   - > My life view drives my work life. How I want to live my life impacts how I view my work life, how I view work itself, and how I want to interact with work.
