@@ -15,13 +15,37 @@
 ##Working on the 1st Law of Behavior Change: Make it Obvious
 
 Bring self-awareness to your current habits by making a Habits Scorecard. Make a list of your daily habits (examples: wake up, turn off alarm, check phone, etc.) as a way to bring awareness to what you do. Then, decide how effective that habit is for you and your goal of becoming a software developer. Put a + next to habits that are effective; put a - next to habits that are not effective; put a = next to habits that are neutral.
+> Wake up & do yoga
+> Eat Breakfast with family
+> read a book
+> Self-study
+> Exercise +
+> Meeting/self-study
+> lunch/snack +
+> lessons
+> -navigate away from page to web browser -
+> -drink water +
+> -take breaks +
+> -mobility exercises +
+> -respond to messages during lessons -
+> -look at message tab in zoom, respond to those non-technical messages -
+> eat lunch/snack
+> play guitar
+> eat dinner with family
+> self-study/group work
+> bed time prep +++
+> -call partner & talk
+> -put phone in bathroom
+> -wash face
+> -brush & floss teeth -->
+
 
 Pick 1 new habit you’d like to build and create an implementation intention following this template: “I will [BEHAVIOR] at [TIME] in [LOCATION].” Then, stack the habit onto something you already do: “After [CURRENT HABIT], I will [NEW HABIT].” (Hint: make this highly specific and immediately actionable)
->
+> I will close & sign off from my computer & coding at 9:30pm every week day. After I close my computer, I will then continue my established habit of bedtime prep.
 
 
 1. Design your environment for success: what changes could you make in your space to better implement your habit? How could you remove any triggers for bad habits? How will you implement these changes?
->
+> An alarm reminding me to prepare for bed in 30 minutes. Being explicit with my partners & group members that I am unavailable after 9:30. Telling my partner to call me/expect a call from me at 9:35 every night to make sure that I am off the computer and preparing for bed.  
 
 
 2. Respond after a few days of this implementation: What are your results? How do you feel about this method? How will you move forward with this habit?
