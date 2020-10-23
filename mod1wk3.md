@@ -37,7 +37,7 @@ Bring self-awareness to your current habits by making a Habits Scorecard. Make a
 > -call partner & talk
 > -put phone in bathroom
 > -wash face
-> -brush & floss teeth -->
+> -brush & floss teeth
 
 
 Pick 1 new habit you’d like to build and create an implementation intention following this template: “I will [BEHAVIOR] at [TIME] in [LOCATION].” Then, stack the habit onto something you already do: “After [CURRENT HABIT], I will [NEW HABIT].” (Hint: make this highly specific and immediately actionable)
@@ -49,4 +49,4 @@ Pick 1 new habit you’d like to build and create an implementation intention fo
 
 
 2. Respond after a few days of this implementation: What are your results? How do you feel about this method? How will you move forward with this habit?
->
+> Asking my partner to keep me accountable is a powerful motivator! He called me at nine the other day and when I still wasn't off the computer, he called me on it. It was great to get a decent night's sleep. We talked over the best way to do it and decided that I would text him the time I want to go to sleep tonight, and he would call me a half hour before that time so I can get my brain to shut down. I like planning, so by saying ahead of time, in the morning, it's really helpful for me, too. 
