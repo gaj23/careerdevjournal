@@ -21,17 +21,17 @@ Week 2: https://github.com/gaj23/careerdevjournal/blob/main/mod1wk2.md
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here:
 
-Week 3: [Link here to your gist]
-- [ ] (completed)
+Week 3: https://github.com/gaj23/careerdevjournal/blob/main/mod1wk3.md
+- [x] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here:
 
-Week 4: [Link here to your gist]
+Week 4: https://github.com/gaj23/careerdevjournal/blob/main/mod1wk4.md
 - [ ] (completed)
 - [ ] (partially complete)
-- [ ] (not started)
+- [x] (not started)
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here:
 
