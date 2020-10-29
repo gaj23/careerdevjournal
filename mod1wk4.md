@@ -2,7 +2,7 @@
 
 ##Habits Reflection:
 - How have you seen yourself become more aware of your habits? Have you tried implementing anything new? What have the results been?  
-> I've been better about navigating away from zoom when lessons are on or engaging in conversations in chat that can distract from the lesson at hand. I'm still struggling to implement the bed time, though, because there never seems to be enough time! My partner is very helpful, though. He is a huge motivator and reminder to me that I need to keep on taking care of my body through this program. A habit that I've decided to remove, though, is the logging of food. It creates an additional thing to do. And frankly, I don't want to prioritize it right now! 
+> I've been better about navigating away from zoom when lessons are on or engaging in conversations in chat that can distract from the lesson at hand. I'm still struggling to implement the bed time, though, because there never seems to be enough time! My partner is very helpful, though. He is a huge motivator and reminder to me that I need to keep on taking care of my body through this program. A habit that I've decided to remove, though, is the logging of food. It creates an additional thing to do. And frankly, I don't want to prioritize it right now!
 
 ## Start Where You Are (Empathize with the user – you)
 ###Health: how you answer “how are you”; intersection of physical, mental, and emotional health
@@ -41,4 +41,4 @@
 
 ##Test –- solutions
 - Based on this week of reflections, write out your initial vision statement for your career:
->
+> I want to wake up, have time to spend on myself and with my family, and look forward to the challenges I'm going to experience at work. I want to engage with the wider team of developers and developer adjacent coworkers to effectively solve problems the users are experiences. I'm able to have flexibility and security in my job. Then, when it's time to go home, I want to go home. To set the work down and know that I won't be penalized for wishing to do so either. My boundaries are respected. I want to enjoy my job, but I don't want it to be my life. 
