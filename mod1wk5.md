@@ -7,7 +7,7 @@
 ##Design Thinking Reflection: Cultivating Beginner’s Mind
 - How can beginner’s mind be helpful when it comes to thinking about your career and job search? What are some habits you could put into place to cultivate beginner’s mind regularly?
 
-- Go through the Flower Exercise brainstorming worksheets linked here. Then complete your Flower Exercise final worksheet here and link that finished worksheet here.
+- [My Flower Worksheet](https://docs.google.com/document/d/1VRfNYmo7VhGFEcFOsxtes9y5Rgc3AyTG4OG74WpP46E/edit?usp=sharing)
 
 - Write out your top 5 strengths that you’ve seen in action this module; then write out the strengths of a software developer. Where do you see these lists overlapping? Where are they different?
 
