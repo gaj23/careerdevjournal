@@ -36,8 +36,8 @@ Week 4: https://github.com/gaj23/careerdevjournal/blob/main/mod1wk4.md
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here:
 
 Week 5: https://github.com/gaj23/careerdevjournal/blob/main/mod1wk5.md
-- [ ] (completed)
-- [x] (partially complete)
+- [x] (completed)
+- [ ] (partially complete)
 - [ ] (not started)
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here:
