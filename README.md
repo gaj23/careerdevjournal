@@ -44,8 +44,8 @@ If you will not be able to complete your journal this week, please provide an up
 
 ### Mod 2
 
-Week 1: [Link here to your gist]
-- [ ] (completed)
+Week 1: https://gist.github.com/gaj23/e94eebdaf26d360be599d47e397f1712
+- [x] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
