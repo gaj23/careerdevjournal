@@ -1,3 +1,5 @@
+# Mod 1 Week 2
+
 # Power of self-reflection
 1. What is challenging about self-reflection?
 > Self-reflection is challenging because you have to be honest to yourself and honesty can be incredibly painful. Our human psyches have been evolutionally designed to protect our egos. When we have to question and put into perspective our own thoughts, it takes effort. That effort is incredibly difficult to muster up and admit to yourself that yes, you need to self-reflect to help yourself.

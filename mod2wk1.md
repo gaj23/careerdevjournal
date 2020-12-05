@@ -1,3 +1,5 @@
+# Mod 2 Week 1
+
 1. Reflect on your habits from last module. What behaviors and activities were helpful for you? What activities and behaviors could be more effective for you? What processes would you like to try differently this module to become more effective at your work and as a software developer?
 
 - Weekend preteaching. I can't keep up with everything during the week, but taking the time on the weekend to do a bunch of preteaching is the most helpful for me. Setting an overall work time is best for me. For example: today, I will work four hours outside of class/scheduled time. And from there breaking down my day is more helpful than saying, I'll work a half hour, take a break, ect.

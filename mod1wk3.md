@@ -1,3 +1,5 @@
+# Mod 1 Week 3
+
 # Habits of a Software Developer
 
 1. What do you think are the traits of a good software developer? What are they like in the workplace? What would you as a co-worker think of this person?
@@ -49,4 +51,4 @@ Pick 1 new habit you’d like to build and create an implementation intention fo
 
 
 2. Respond after a few days of this implementation: What are your results? How do you feel about this method? How will you move forward with this habit?
-> Asking my partner to keep me accountable is a powerful motivator! He called me at nine the other day and when I still wasn't off the computer, he called me on it. It was great to get a decent night's sleep. We talked over the best way to do it and decided that I would text him the time I want to go to sleep tonight, and he would call me a half hour before that time so I can get my brain to shut down. I like planning, so by saying ahead of time, in the morning, it's really helpful for me, too. 
+> Asking my partner to keep me accountable is a powerful motivator! He called me at nine the other day and when I still wasn't off the computer, he called me on it. It was great to get a decent night's sleep. We talked over the best way to do it and decided that I would text him the time I want to go to sleep tonight, and he would call me a half hour before that time so I can get my brain to shut down. I like planning, so by saying ahead of time, in the morning, it's really helpful for me, too.
