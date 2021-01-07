@@ -65,8 +65,8 @@ Week 3: https://gist.github.com/gaj23/2b23ca01ca0c4a2aa318835882c29a25
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here:
 
-Week 4: [Link here to your gist]
-- [ ] (completed)
+Week 4: https://gist.github.com/gaj23/82845cec5fe097debad25742b3e3a0f4
+- [x] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
