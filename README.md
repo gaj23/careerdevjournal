@@ -82,12 +82,12 @@ If you will not be able to complete your journal this week, please provide an up
 ### Mod 3
 
 Pre-work: https://gist.github.com/gaj23/6c0f980a79401309699c11a62d644d71
-- [ ] (completed)
+- [x] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
-Week 1: [Link here to your gist]
-- [ ] (completed)
+Week 1: https://gist.github.com/gaj23/6db4262420a13c79f336d396a4060247
+- [x] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
