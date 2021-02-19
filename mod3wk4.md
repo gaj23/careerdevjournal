@@ -2,10 +2,40 @@
 
 ### Prepare for Job Shadow: AEIOU
 1. Activities: what questions do you have about the activities that a software developer does on a daily basis?
+
+- On average, how many hours during a work day are your fingers on the keyboard?
+
+- Outside of coding, what other responsibilities do devs have?
+
 2. Environment: what questions do you have about the overall environment and culture of this workplace?
+
+- Do you find your company to be active in the community?
+
+-Has Ibotta announced a plan going forward for 2021?
+
+- Is there structured space for learning/mentorship?
+
 3. Interactions: what questions do you have about the team at this company? What do you hope to see in your interactions during the shadow?
+
+- How clear is the delineation of work responsibilities on your team?
+
+- What was your interview process like?
+
+- How are teams broken down? What's the hierarchy like?
+
+- What are the team sizes?
+
 4. Objects: what questions do you have about the code or the product?
+
+- How have new technologies been introduced? What's Ibotta's process to approve new libraries or framework integrations?  
+
 5. Users: what questions do you have about how the company interacts with their users?
+
+- How has ibotta grown to protect their users through cybersecurity?
+
+- The highlighting function when you're on a website, was that something originally in the system or something that was developed over time?
+
+- What's an example of a time ibotta responded to user feedback and how did the software development team contribute to that?
 
 ### After the Job Shadow
 1. Activities: what was engaging to the person/people you shadowed?
