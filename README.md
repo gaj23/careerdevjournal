@@ -3,6 +3,8 @@ layout: page
 title: Career Journal Template
 ---
 
+`2020/04/22: This was a requirement for Turing Professional Development and is now archived and will not be updated.`
+
 ## Gabrielle's Career Journal
 
 ### Mod 1
